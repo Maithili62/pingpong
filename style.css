@@ -1,0 +1,87 @@
+body
+{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.heading h1
+{
+    display: inline;
+    font-weight: bolder;
+    font-size: 45px;
+    color: black;
+}
+
+.heading button
+{
+    float: right;
+    border: 3px black solid;
+    font-size: 20px;
+}
+
+#status , #start
+{
+    font-size: 25px;
+}
+
+.heading
+{
+    width: 100%;
+}
+
+.heading h1
+{
+    display: inline;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.heading button
+{
+    float: right;
+    border: 2px white solid;
+}
+
+#status , #start
+{
+    font-size: 22px;
+}
+
+#big_image
+{
+    width: 100%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+    
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+.footer
+{
+    background-color: black;
+    color: white;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.instructions
+{
+    color: black;
+}
+
+.modal-body h4
+{
+    font-size: 30px;
+    color: blue;
+}
